@@ -11,6 +11,7 @@
 		<module>modulers/lcnt3</module>
 		<module>modulers/lcnt4</module>
 		<module>lcntest5</module>
+		<module>lcntest6</module>
 	</modules>
 
 	<properties>
